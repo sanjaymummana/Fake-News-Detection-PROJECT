@@ -1,5 +1,5 @@
 # Fake-News-Detection-PROJECT
-Fake news detection using Data Analytics method along with python language.
+Fake news detection using Data Analytics method along with python language./n
 The dataset used for this project is train.csv. Dataset has a shape of (20800*5). The dataset has five columns: first identifies the news id, second and third are title and author and the fourth one is the text and finally the fifth one denoting FAKE or REAL.
 Follow the below steps to complete the project:
 1)Importing the Dependencies.
